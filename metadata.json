@@ -1,0 +1,6 @@
+{
+  "name": "Jal Drishti — FloodSafe Village",
+  "description": "Localized flood-monitoring and community early-warning platform for flood-prone villages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
